@@ -4,7 +4,7 @@
 
 - [Install](#install)
 - [Usage](#usage)
-- [Properties](#Modules)
+- [Modules](#Modules)
 - [Contribute](#Contributors)
 - [License](#License)
 
